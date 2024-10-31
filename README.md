@@ -1,2 +1,5 @@
 # GitHub_Lab1-Project
-## Aim
+## Description
+## Method
+## Results 
+## Conclusions
