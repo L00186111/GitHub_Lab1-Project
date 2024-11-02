@@ -1,6 +1,8 @@
 # GitHub_Lab1-Project
 ## Description
-### This is an introduction
+Software development is an expanding fast-paced career path in high tech world. A system is a range of development versions that hold a wide variety of stable software for a fast-growing software development of any business. A software should be able to adapt to the ever-changing business requirement as quickly as possible
+So, the following report intends to report the introduction of Git & GitHub approach on version control to the cloud world transition activity. By using pull request (prs), branching, fork, kanban boards, etc. we will discuss methods and processes to make our cloud team and individual work more adoptable towards cloud nature.
+
 ## Method
 ### This is an introduction
 * hi
