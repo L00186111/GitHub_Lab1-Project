@@ -5,19 +5,18 @@ So, the following report intends to report the introduction of Git & GitHub appr
 
 An open-source version control management system such as Git is an example of a powerful tool that helps developers manage and track code over time. By keeping a complete history of all changes, Git allows developers to collaborate on projects and experiment with different ideas and roll back, if needed. It is also distributed (to make it reliable and allow for offline flexible settings), which means that each developer has a full local copy of the project history.GitHub, in contrast, is a hosted service for Git repositories that comes with more features like collaboration tools, issue tracking and project management. GitHub: An interface serving to share and incorporate code changes, review contributions, and manage workflows.it allows many developers to work together. It also enables collaborative changes to a repository via pull requests, allowing for proposed changes to be reviewed and discussed before being merged into the primary project. GitHub is not just a code hosting site it integrates with CI/CD, documentation, etc. for org development and open-source development.
 
-
 ## Method
 We have several major processes and approaches for git:
-•	Change Tracking: History of changes to the code. All modifications are documented.
-•	Repo: A repository is where the project, and every single change you have ever made to that project, is stored.
-•	Staging Area: A place to prepare code changes and determine whether it is ready to be committed to the repository.
-•	Commit: This command creates a snapshot of the current state of the code and saves it to the local repository along with a message describing the change.
-•	Branching: Allows development in different lines, separating work on features or fixes.
-•	Merging: This applies the changes from the various branches, which might involve mixing them into a single branch while resolving conflicts (e.g. when two separate changes modify the same line in the source code)
-•	Pull — Merge updates from the remote to the local branch.
-•	Push: This allows us to push commit changes from the local repo to remote repo and share updates from other developers on the same project.
+*	Change Tracking: History of changes to the code. All modifications are documented.
+*	Repo: A repository is where the project, and every single change you have ever made to that project, is stored.
+*	Staging Area: A place to prepare code changes and determine whether it is ready to be committed to the repository.
+*	Commit: This command creates a snapshot of the current state of the code and saves it to the local repository along with a message describing the change.
+*	Branching: Allows development in different lines, separating work on features or fixes.
+*	Merging: This applies the changes from the various branches, which might involve mixing them into a single branch while resolving conflicts (e.g. when two separate changes modify the same line in the source code)
+*	Pull — Merge updates from the remote to the local branch.
+*	Push: This allows us to push commit changes from the local repo to remote repo and share updates from other developers on the same project.
 GitHub Processes and Methods (Background)
-•	Remote Repo: A Git repo hosted in GitHub to work with other people.
+*	Remote Repo: A Git repo hosted in GitHub to work with other people.
 
 ## Results 
 this will be part of project outcome
