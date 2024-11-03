@@ -80,11 +80,12 @@ https://www.geeksforgeeks.org/how-to-create-a-pull-request-in-github/?ref=gcse_o
 [Accessed 30 Oct 2024].
 
 ## Appendices
-https://github.com/L00186111/GitHub_Lab1-Project
-* (GitHub Repository link for Lab1 portfolio project part1)
-  
-https://github.com/users/L00186111/projects/7
-* (GitHub Project Setup) 
+
+### Some active and practical project work images has been shown below:
+
+* Clone A repo from GitHub to Local Machine
+![1 Clone A repo from GitHub to Local Machine](https://github.com/user-attachments/assets/6740e268-5d88-45e2-a751-6b8d694993a3)
+
 
 
 
