@@ -32,9 +32,6 @@ https://www.youtube.com/watch?v=oPQgFxHcjAw
 https://www.youtube.com/watch?v=idZyqNIrt84 
 [Accessed 29 Oct 2024].
 
-*	Mickey Gousset (2020). “Introduction to GitHub Project: Boards” Youtube. [online] Available at:
-https://www.youtube.com/watch?v=idZyqNIrt84 
-[Accessed 29 Oct 2024].
 
 *	Cognitive Programmer (2020). “Git Branches: Creating and Managing Branches in git Using Git Branch, Git merge and Git Checkout” Youtube. [online] Available at:
 https://www.youtube.com/watch?v=oq1FGRTOFBw 
