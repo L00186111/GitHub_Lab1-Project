@@ -8,8 +8,8 @@ An open-source version control management system such as Git is an example of a 
 
 ## Method
 ### This is an introduction
-* hi
-* hello
+* 
+* 
 ## Results 
 this will be part of project outcome
 ## Conclusions
