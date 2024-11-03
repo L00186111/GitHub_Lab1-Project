@@ -26,9 +26,28 @@ An open-source version control management system such as Git is an example of a 
 *	Collaborator access — a way for repo owners to control who can commit/review code
 *	Actions and CI/CD: Automation tools to build, test and deploy code together, forming the development workflow.
 
-
 ## Results 
-this will be part of project outcome
+Appropriate use of Git and GitHub returns a few key outcomes for teams building software and open-source projects. Some of the key outcomes you can look forward to are as follows:
+### Key Results of Using Git:
+*	Seamless Merges: Teams working on different features or fixes using branches can then merge those changes with ease.
+*	Easily Trackable History: Every change comes with a timestamp, the author, and description so there is a complete history of a project that can be verified and audited.
+*	Quality and Stability of Code: Developers can experiment in different branches and switch back to stable versions whenever necessary, keeping the main codebase reliable.
+*	Fewer Conflicts: Since Git offers isolated branches within the team, this translates to fewer conflicts and the merge tools help you to non-destructively resolve any when they occur.
+*	Developers can create feature branches to experiment with new ideas, validate concepts, or refactor code, safe in the knowledge that the main code base will remain unaffected.
+*	Shorter Development Cycles: Using Git, developers are enabling to work in parallel without waiting for others which speeds up the overall development process.
+
+### Key Results of Using GitHub:
+
+*	Smooth Code Reviewing and Quality Management: Pull requests make it easy to perform code reviews, discussions, and joint bug fixes that result in better code.
+*	Improved Visibility of Projects: The issues and project boards give stakeholders a comprehensive view of project status, upcoming work, and who is contributing.
+*	Proficient Problem and Task Tracking The issue and labelling system provided by GitHub sorts bugs, feature requests, and other tasks so teams can prioritize their work better.
+*	Built-in CI/CD: GitHub Actions allows you to automate your CI/CD pipelines without worrying about orchestration. GitHub Actions makes it easy to automate all your software workflows, now with worldclass CI/CD. Build, test, and deploy your code right from GitHub.
+*	GitHub Wikis and README-files on GitHub help in maintaining project documentation in an organized way so that the information is updated and accessible to all the people looking for it.
+*	Encouraging Community & Contributions: Forking, a star, and a forking promote open-source contributions that attract a variety of competitive thoughts and enhancements to projects.
+*		Controlled and Managed Collaboration: The permissions and access rights enable teams to manage viewers and editors or even administrators of the project for secure contributions.
+*	When you use both Git and GitHub together, you get an amazing collaborative environment where the software development process will be organized, replicable, and significantly faster.
+
+
 ## Conclusions
 ## References
 * K. Kim, J. Humble, P. Debois, J. Willis, N. Forsfren (2021). The DevOps Handbook, 2nd Edition. IT Revolution.
