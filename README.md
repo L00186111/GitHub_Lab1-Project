@@ -44,7 +44,7 @@ Appropriate use of Git and GitHub returns a few key outcomes for teams building 
 *	Built-in CI/CD: GitHub Actions allows you to automate your CI/CD pipelines without worrying about orchestration. GitHub Actions makes it easy to automate all your software workflows, now with worldclass CI/CD. Build, test, and deploy your code right from GitHub.
 *	GitHub Wikis and README-files on GitHub help in maintaining project documentation in an organized way so that the information is updated and accessible to all the people looking for it.
 *	Encouraging Community & Contributions: Forking, a star, and a forking promote open-source contributions that attract a variety of competitive thoughts and enhancements to projects.
-*		Controlled and Managed Collaboration: The permissions and access rights enable teams to manage viewers and editors or even administrators of the project for secure contributions.
+*	Controlled and Managed Collaboration: The permissions and access rights enable teams to manage viewers and editors or even administrators of the project for secure contributions.
 *	When you use both Git and GitHub together, you get an amazing collaborative environment where the software development process will be organized, replicable, and significantly faster.
 
 
